@@ -17,6 +17,8 @@ print("spam will start in 10 seconds")
 
 time.sleep(10)
 
+# in this below for loop, you can change the commands to whatever using the modul pyautogui
+
 for x in range(0, int(times)):
     pyautogui.typewrite(text)
     pyautogui.press('enter')
