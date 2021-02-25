@@ -13,11 +13,11 @@ you can spam whatever you want with this program
 1. To run the code, all you have to do is run `python app.py`
 1. Then, you will be asked to provide a few user inputs
   * First, it will ask `what do you want to spam?`
-    ** This is what you want to spam
+    * This is what you want to spam
   * Next, it will ask `sleep time?`
-    ** This is the amount of time that it will pause before retyping the phrase typing the phrase you requested to spam
+    * This is the amount of time that it will pause before retyping the phrase typing the phrase you requested to spam
   * Lastly, it will ask `how many times do you wanna spam`
-    ** Enter a number, otherwise it will throw an error
+    * Enter a number, otherwise it will throw an error
   * The code will run in 10 seconds, so that should give you enough time to get ready
   
 # Issues/Bugs
